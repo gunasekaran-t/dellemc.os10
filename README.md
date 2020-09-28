@@ -30,6 +30,11 @@ To install a specific version, a version range identifier must be specified. For
 
     ansible-galaxy collection install 'dellemc.os10:>=1.0.0,<2.0.0'
 
+### Install paramiko
+Use this command to install paramiko python module:
+
+    pip install paramiko
+
 ## Version compatibility
 Ansible version 2.10 or later.
 
