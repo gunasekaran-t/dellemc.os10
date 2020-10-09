@@ -36,7 +36,8 @@ OS10 collection requires python module `paramiko` to be installed. Use this comm
     pip install paramiko
 
 ## Version compatibility
-Ansible version 2.10 or later.
+* Ansible version 2.10 or later
+* Python 2.7 or later and 3.5 or later
 
 > **NOTE**: For Ansible versions lower than 2.10, use the legacy [dellos10 modules](https://ansible-dellos-docs.readthedocs.io/en/latest/modules.html#os10-modules) and [dellos roles](https://ansible-dellos-docs.readthedocs.io/en/latest/roles.html).
 
