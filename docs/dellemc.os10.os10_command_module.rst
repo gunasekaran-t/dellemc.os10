@@ -42,7 +42,7 @@ Synopsis
 .. Description
 
 - Sends arbitrary commands to a OS10 device and returns the results read from the device. This module includes an argument that will cause the module to wait for a specific condition before returning or timing out if the condition is not met.
-- This module does not support running commands in configuration mode. Please use :ref:`dellemc.os10.os10_config <ansible_collections.dellemc.os10.os10_config_module>` to configure OS10 devices.
+- This module does not support running commands in configuration mode. Please use `dellemc.os10.os10_config <dellemc.os10.os10_config_module.rst>`_ to configure OS10 devices.
 
 
 .. Aliases
